@@ -5,7 +5,7 @@
 #### 스터디 기간
 
 ![STUDY_START](https://img.shields.io/badge/START-2024--09--11-blue)
-![STUDY_END](https://img.shields.io/badge/END-2024--00--00-green)
+![STUDY_END](https://img.shields.io/badge/END-2024--11--20-green)
 
 <br />
 
@@ -22,32 +22,6 @@
 - 스터디는 1시간 동안 진행합니다.
   - 다 함께 정리본을 읽고 챕터 내용을 주제로 이야기하기
   - 출제된 문제를 풀고 (각자 issue 란에 문제의 답안을 작성), 문제에 대한 충분한 토의 후 해당 issue 종료 처리
-
-<br />
-
-## Schedule
-
-<table>
-<thead>
-  <tr>
-  <th>주차</th>
-  <th>날짜</th>
-  <th colspan="2">챕터</th>
-  <th>정리</th>
-  <th>문제</th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-<td>1주차</td>
-<td align="center">9/11(수)</td>
-<td colspan="2" align="left">[2장] 타입</td>
-<td ><a href="https://github.com/ogqcorp/woowahan-ts-study/blob/master/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85/%EC%9C%A0%EC%A7%84%EB%A6%AC.md">유진리</a></td>
-<td ><a href="https://github.com/ogqcorp/woowahan-ts-study/issues">문제</a></td>
-</tr>
-<tr>
-</tbody>
-</table>
 
 <br />
 
